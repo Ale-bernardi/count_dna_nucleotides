@@ -1,11 +1,17 @@
 Package: counDNAnucleotides
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: A Package for Counting DNA Nucleotides
+Version: 0.1.1
+Author: Your Name
+Maintainer: Your Name <your.email@example.com>
+Description: This package provides functions to count the number of each type of nucleotide in a DNA sequence.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    stringr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
