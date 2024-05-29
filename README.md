@@ -2,6 +2,7 @@
 # counDNAnucleotides
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/Ale-bernardi/count_dna_nucleotides/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ale-bernardi/count_dna_nucleotides/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of counDNAnucleotides is to ...
